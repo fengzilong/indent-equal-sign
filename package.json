@@ -1,0 +1,14 @@
+{
+  "name": "indent-equal-sign",
+  "main": "./lib/indent-equal-sign",
+  "version": "0.0.0",
+  "description": "My awesome atom package!",
+  "license": "MIT",
+  "private": true,
+  "repository": "https://github.com/fengzilong/indent-equal-sign",
+  "engines": {
+    "atom": ">0.61.0"
+  },
+  "dependencies": {
+  }
+}
